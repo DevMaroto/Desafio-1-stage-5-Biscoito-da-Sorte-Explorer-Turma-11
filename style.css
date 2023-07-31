@@ -184,7 +184,7 @@ button, #open-other-cookie {
 @keyframes showMessage {
   0% {
     opacity: 0;
-    transform: translateY(100%)
+    transform: translateY(200px) scale(5%);
   }
   
   50% {
